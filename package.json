@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "lint": "eslint --fix '*.peggy'"
+  },
+  "devDependencies": {
+    "@peggyjs/eslint-parser": "^2.0.6",
+    "@peggyjs/eslint-plugin": "^2.1.0",
+    "eslint": "^8.57.0"
+  }
+}
